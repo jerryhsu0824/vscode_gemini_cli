@@ -7,6 +7,5 @@ node_modules/
 
 # Gemini CLI & System Files
 .DS_Store
-.bmad-core/
 .gemini/
 web-bundles/
