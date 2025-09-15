@@ -1,0 +1,12 @@
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Gemini CLI & System Files
+.DS_Store
+.bmad-core/
+.gemini/
+web-bundles/

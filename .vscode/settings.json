@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    ".bmad-core": true,
+    ".gemini": true,
+    "web-bundles": true,
+    "node_modules": true,
+    "playwright-report": true,
+    "test-results": true
+  }
+}
